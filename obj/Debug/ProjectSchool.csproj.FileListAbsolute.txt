@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\vs19 projeleri\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\vs19 projeleri\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.Form1.resources
+C:\Users\Asus\Desktop\vs19 projeleri\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.Form2.resources
+C:\Users\Asus\Desktop\vs19 projeleri\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.Properties.Resources.resources
+C:\Users\Asus\Desktop\vs19 projeleri\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\vs19 projeleri\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\vs19 projeleri\ProjectSchool\ProjectSchool\bin\Debug\ProjectSchool.exe.config
+C:\Users\Asus\Desktop\vs19 projeleri\ProjectSchool\ProjectSchool\bin\Debug\ProjectSchool.exe
+C:\Users\Asus\Desktop\vs19 projeleri\ProjectSchool\ProjectSchool\bin\Debug\ProjectSchool.pdb
+C:\Users\Asus\Desktop\vs19 projeleri\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.exe
+C:\Users\Asus\Desktop\vs19 projeleri\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.pdb
+C:\Users\Asus\Desktop\vs19 projeleri\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.Form3.resources
+C:\Users\Asus\Desktop\vs19 projeleri\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.Form4.resources
+C:\Users\Asus\Desktop\vs19 projeleri\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.Form5.resources
